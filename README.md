@@ -4,4 +4,4 @@ Jenkins shared library example that can be imported by other projects inside the
 
 This repository has was created to provide an example for the following tutorial about how to set up Jenkins Pipelines:
 
-* [Centralise Jenkins Pipelines configuration using Shared Libraries](https://dev.to/jalogut/centralise-jenkins-pipelines-configuration-using-shared-libraries-temp-slug-6036547/edit)
+* [Centralise Jenkins Pipelines configuration using Shared Libraries](https://dev.to/jalogut/centralise-jenkins-pipelines-configuration-using-shared-libraries)
